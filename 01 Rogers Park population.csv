@@ -1,3 +1,11 @@
-﻿Year,1930,1940,1950,1960,1970,1980,1990,2000,2010,2018
-Population,57094,60565,62252,56888,60787,55525,60378,63484,54991,54872
-Community Area,Rogers Park,Rogers Park,Rogers Park,Rogers Park,Rogers Park,Rogers Park,Rogers Park,Rogers Park,Rogers Park,Rogers Park
+﻿Year,Population,Community Area
+ 1930,57094,Rogers Park
+ 1940,60565,Rogers Park
+ 1950,62252,Rogers Park
+ 1960,56888,Rogers Park
+ 1970,60787,Rogers Park
+ 1980,55525,Rogers Park
+ 1990,60378,Rogers Park
+ 2000,63484,Rogers Park
+ 2010,54991,Rogers Park
+ 2018,54872,Rogers Park
