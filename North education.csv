@@ -1,73 +1,73 @@
-﻿Year,Population,Community Area
-1/1/1940,13.2%,Rogers Park
-1/1/1940,9.7%,West Ridge
-1/1/1940,7.2%,Uptown
-1/1/1940,4.8%,Lincoln Square
-1/1/1940,1.8%,North Center
-1/1/1940,6.0%,Lakeview
-1/1/1940,5.1%,Lincoln Park
-1/1/1940,9.8%,Edgewater
-1/1/1950,15.2%,Rogers Park
-1/1/1950,13.4%,West Ridge
-1/1/1950,7.7%,Uptown
-1/1/1950,6.8%,Lincoln Square
-1/1/1950,2.5%,North Center
-1/1/1950,8.1%,Lakeview
-1/1/1950,6.9%,Lincoln Park
-1/1/1950,12.0%,Edgewater
-1/1/1960,14.3%,Rogers Park
-1/1/1960,12.8%,West Ridge
-1/1/1960,7.9%,Uptown
-1/1/1960,7.5%,Lincoln Square
-1/1/1960,3.0%,North Center
-1/1/1960,8.4%,Lakeview
-1/1/1960,8.3%,Lincoln Park
-1/1/1960,11.5%,Edgewater
-1/1/1970,18.4%,Rogers Park
-1/1/1970,14.6%,West Ridge
-1/1/1970,11.3%,Uptown
-1/1/1970,8.7%,Lincoln Square
-1/1/1970,4.1%,North Center
-1/1/1970,15.4%,Lakeview
-1/1/1970,21.8%,Lincoln Park
-1/1/1970,16.7%,Edgewater
-1/1/1980,30.7%,Rogers Park
-1/1/1980,24.6%,West Ridge
-1/1/1980,19.2%,Uptown
-1/1/1980,16.4%,Lincoln Square
-1/1/1980,10.9%,North Center
-1/1/1980,33.1%,Lakeview
-1/1/1980,48.6%,Lincoln Park
-1/1/1980,25.9%,Edgewater
-1/1/1990,33.6%,Rogers Park
-1/1/1990,30.5%,West Ridge
-1/1/1990,28.0%,Uptown
-1/1/1990,23.9%,Lincoln Square
-1/1/1990,23.3%,North Center
-1/1/1990,53.1%,Lakeview
-1/1/1990,68.2%,Lincoln Park
-1/1/1990,35.2%,Edgewater
-1/1/2000,32.0%,Rogers Park
-1/1/2000,35.6%,West Ridge
-1/1/2000,39.5%,Uptown
-1/1/2000,38.1%,Lincoln Square
-1/1/2000,48.1%,North Center
-1/1/2000,70.8%,Lakeview
-1/1/2000,78.0%,Lincoln Park
-1/1/2000,41.9%,Edgewater
-1/1/2010,40.4%,Rogers Park
-1/1/2010,35.8%,West Ridge
-1/1/2010,52.0%,Uptown
-1/1/2010,54.4%,Lincoln Square
-1/1/2010,68.1%,North Center
-1/1/2010,77.7%,Lakeview
-1/1/2010,82.2%,Lincoln Park
-1/1/2010,54.5%,Edgewater
-1/1/2018,45.0%,Rogers Park
-1/1/2018,39.3%,West Ridge
-1/1/2018,54.8%,Uptown
-1/1/2018,62.4%,Lincoln Square
-1/1/2018,73.6%,North Center
-1/1/2018,80.6%,Lakeview
-1/1/2018,84.3%,Lincoln Park
-1/1/2018,56.4%,Edgewater
+﻿Year,% College,Community Area
+1/1/1940,13.2,Rogers Park
+1/1/1940,9.7,West Ridge
+1/1/1940,7.2,Uptown
+1/1/1940,4.8,Lincoln Square
+1/1/1940,1.8,North Center
+1/1/1940,6.0,Lakeview
+1/1/1940,5.1,Lincoln Park
+1/1/1940,9.8,Edgewater
+1/1/1950,15.2,Rogers Park
+1/1/1950,13.4,West Ridge
+1/1/1950,7.7,Uptown
+1/1/1950,6.8,Lincoln Square
+1/1/1950,2.5,North Center
+1/1/1950,8.1,Lakeview
+1/1/1950,6.9,Lincoln Park
+1/1/1950,12.0,Edgewater
+1/1/1960,14.3,Rogers Park
+1/1/1960,12.8,West Ridge
+1/1/1960,7.9,Uptown
+1/1/1960,7.5,Lincoln Square
+1/1/1960,3.0,North Center
+1/1/1960,8.4,Lakeview
+1/1/1960,8.3,Lincoln Park
+1/1/1960,11.5,Edgewater
+1/1/1970,18.4,Rogers Park
+1/1/1970,14.6,West Ridge
+1/1/1970,11.3,Uptown
+1/1/1970,8.7,Lincoln Square
+1/1/1970,4.1,North Center
+1/1/1970,15.4,Lakeview
+1/1/1970,21.8,Lincoln Park
+1/1/1970,16.7,Edgewater
+1/1/1980,30.7,Rogers Park
+1/1/1980,24.6,West Ridge
+1/1/1980,19.2,Uptown
+1/1/1980,16.4,Lincoln Square
+1/1/1980,10.9,North Center
+1/1/1980,33.1,Lakeview
+1/1/1980,48.6,Lincoln Park
+1/1/1980,25.9,Edgewater
+1/1/1990,33.6,Rogers Park
+1/1/1990,30.5,West Ridge
+1/1/1990,28.0,Uptown
+1/1/1990,23.9,Lincoln Square
+1/1/1990,23.3,North Center
+1/1/1990,53.1,Lakeview
+1/1/1990,68.2,Lincoln Park
+1/1/1990,35.2,Edgewater
+1/1/2000,32.0,Rogers Park
+1/1/2000,35.6,West Ridge
+1/1/2000,39.5,Uptown
+1/1/2000,38.1,Lincoln Square
+1/1/2000,48.1,North Center
+1/1/2000,70.8,Lakeview
+1/1/2000,78.0,Lincoln Park
+1/1/2000,41.9,Edgewater
+1/1/2010,40.4,Rogers Park
+1/1/2010,35.8,West Ridge
+1/1/2010,52.0,Uptown
+1/1/2010,54.4,Lincoln Square
+1/1/2010,68.1,North Center
+1/1/2010,77.7,Lakeview
+1/1/2010,82.2,Lincoln Park
+1/1/2010,54.5,Edgewater
+1/1/2018,45.0,Rogers Park
+1/1/2018,39.3,West Ridge
+1/1/2018,54.8,Uptown
+1/1/2018,62.4,Lincoln Square
+1/1/2018,73.6,North Center
+1/1/2018,80.6,Lakeview
+1/1/2018,84.3,Lincoln Park
+1/1/2018,56.4,Edgewater
